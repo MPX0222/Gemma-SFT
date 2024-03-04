@@ -1,2 +1,2 @@
-# Gemma-7B-SFT
-Gemma-7B Supervised Fine-Tuning
+# Gemma-SFT
+Gemma Supervised Fine-Tuning
